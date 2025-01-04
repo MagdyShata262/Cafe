@@ -30,6 +30,7 @@ export class AppComponent {
     return this.contexts.getContext('primary')?.route?.snapshot?.data?.[
       'animation'
     ];
+    console.log("gsgagtr")
   }
 
   title = 'my-app';
