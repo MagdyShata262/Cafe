@@ -37,8 +37,6 @@ export class AppComponent {
     console.log("gsgagtr1111111111111111111")
     console.log("gsgagtr1111111111111111111")
     console.log("gsgagtr1111111111111111111")
-    console.log("gsgagtr11111111111111111110000000000000")
-    console.log("gsgagtr11111111111111111115")
 
 
   }
