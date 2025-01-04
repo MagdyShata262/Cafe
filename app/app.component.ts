@@ -32,6 +32,7 @@ export class AppComponent {
     ];
     console.log("gsgagtr")
     console.log("gsgagtrffffffffffffffffffffffffhhhhhhhhhhhhhhh")
+    console.log("gsgagtr")
 
   }
 
