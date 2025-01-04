@@ -34,6 +34,8 @@ export class AppComponent {
     console.log("gsgagtrffffffffffffffffffffffffhhhhhhhhhhhhhhh")
     console.log("gsgagtr")
     console.log("gsgagtr1111111111111111111")
+    console.log("gsgagtr1111111111111111111")
+
   }
 
   title = 'my-app';
