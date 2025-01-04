@@ -31,6 +31,8 @@ export class AppComponent {
       'animation'
     ];
     console.log("gsgagtr")
+    console.log("gsgagtrffffffffffffffffffffffff")
+
   }
 
   title = 'my-app';
